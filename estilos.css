@@ -1,5 +1,16 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+    margin: 0;
+}
+
+.container {
+    background: darkslategray;
+    height: 50px;
+}
+
+#cabecera {
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
 }
